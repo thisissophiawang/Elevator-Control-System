@@ -26,11 +26,11 @@ When the application starts, users are presented with the **Main Menu**, where t
 
 ## Welcome Screen
 The application opens with a welcome screen allowing users to configure building parameters:
-![Welcome Screen](images/welcome-screen.jpg)
+![Welcome Screen](images/welcome-screen.png)
 
 ## Building Simulation Interface
 After configuration, the system displays the building and elevator status in real-time:
-![Building Simulation](images/building-simulation.jpg)
+![Building Simulation](images/building-simulation.png)
 
 
 
