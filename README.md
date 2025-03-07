@@ -99,12 +99,3 @@ This project follows the **MVC (Model-View-Controller) pattern**:
 
 This project is for **educational purposes**. All development is original, using only **standard Java libraries**.  
 ```
-
----
-
-### 🛠 Changes Made Based on Your Update: 
-- **Updated the execution command** to `java -jar ElevatorSystem.jar`  
-- Ensured all terminology matches the **UI elements in your screenshots**  
-- Kept everything structured and **easy to read**  
-
-Let me know if you need any further refinements! 🚀😊
