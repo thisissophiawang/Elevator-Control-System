@@ -21,7 +21,7 @@ The system implements an **optimized elevator assignment algorithm** to minimize
 
 When the application starts, users are presented with the **Main Menu**, where they can configure the building parameters:  
 
-![Multi-Elevator Control System architecture](elevator-simulation-diagram.svg)  
+![Multi-Elevator Control System architecture](images/elevator-simulation-diagram.png)  
 
 - Users select the **Floor Number, Elevator Number, and Capacity Number** using dropdown menus.  
 - Clicking **Create Building** initializes the simulation with the selected parameters.  
