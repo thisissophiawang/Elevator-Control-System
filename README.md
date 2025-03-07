@@ -36,7 +36,6 @@ To launch the simulation, execute the **JAR file** provided in this project.
 java -jar ElevatorSystem.jar
 ```
 
-```
 This creates a **6-floor** building with **3 elevators**, each having a **capacity of 3 people**.  You can click the main menu.
 
 ## How to Use the Program  
