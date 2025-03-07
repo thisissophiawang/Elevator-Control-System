@@ -98,4 +98,4 @@ This project follows the **MVC (Model-View-Controller) pattern**:
 ## License  
 
 This project is for **educational purposes**. All development is original, using only **standard Java libraries**.  
-```
+
