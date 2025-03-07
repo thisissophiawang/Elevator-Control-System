@@ -16,6 +16,19 @@ The application follows the **MVC (Model-View-Controller) design pattern**, prov
 
 The system implements an **optimized elevator assignment algorithm** to minimize travel time while considering **capacity constraints**.  
 
+
+## Main Menu  
+
+When the application starts, users are presented with the **Main Menu**, where they can configure the building parameters:  
+
+![Main Menu Screenshot](elevator-simulation-diagram.svg)  
+
+- Users select the **Floor Number, Elevator Number, and Capacity Number** using dropdown menus.  
+- Clicking **Create Building** initializes the simulation with the selected parameters.  
+
+
+
+
 ## Features  
 
 - **Customizable Building Setup**: Configure the **floor number, elevator number, and capacity number** at startup.  
